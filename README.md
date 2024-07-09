@@ -8,3 +8,5 @@ Controls
 Features
 - Credit Scene 
 - Attack animation
+if you want to play the game, you can download the latest version of the game directly from the following link:
+   [Download My First Project](https://1drv.ms/u/s!AoQfHXVNUJTksNodP9_ILgnccySaEw?e=loP8QX)
